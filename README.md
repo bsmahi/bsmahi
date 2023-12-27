@@ -15,18 +15,3 @@ Java, Spring Framework, Spring Boot, Microservices, Amazon WebServices(AWS), Apa
 ## 👯 Communities
 * in28Minutes
 * Spring Boot Migrator
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bsmahi&theme=nord&column=7)](https://github.com/bsmahi/github-profile-trophy)
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/bsmahi/bsmahi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsmahi&hide=tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10" />
-</a>
-<a href="https://github.com/bsmahi/bsmahi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bsmahi&show_icons=true&line_height=35&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mahi's GitHub Stats" />
-</a>
-
-  
