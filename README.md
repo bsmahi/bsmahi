@@ -13,12 +13,13 @@ Java, Spring Framework, Spring Boot, Microservices, Amazon WebServices(AWS), Apa
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
 ## Connect with me
-<a href="https://www.linkedin.com/in/mahendra-rao-bandaru-8754432b/"><img align="left" src="https://github.com/bsmahi/bsmahi/blob/main/linkedin.png" alt="LinkedIn" width="50px"/></a><br/><br/>
+<a href="https://www.linkedin.com/in/mahendra-rao-bandaru-8754432b/"><img align="left" src="https://github.com/bsmahi/bsmahi/blob/main/linkedin.png" alt="LinkedIn" width="50px"/></a><br/><br/><br/><br/>
+
 
 ## <img src="https://github.com/bsmahi/bsmahi/blob/main/opensource.png" width="50" height="50" /> Open Source Communities
 * in28Minutes
 * Spring Boot Migrator
 * Spring Rewrite Commons
-* OpenRewr
+* OpenRewrite
 
 
