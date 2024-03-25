@@ -12,7 +12,10 @@ Java, Spring Framework, Spring Boot, Microservices, Amazon WebServices(AWS), Apa
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
-## 👯 Communities
+## 👯 Open Source Communities
 * in28Minutes
 * Spring Boot Migrator
 * Spring Rewrite Commons
+* OpenRewrite
+
+<a href=”[in/mahendra-rao-bandaru-8754432b]()](https://www.linkedin.com/in/mahendra-rao-bandaru-8754432b/)"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
