@@ -1,7 +1,7 @@
 <h2> Hello, I'm Mahi! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 <p><em> - 🔭 I’m currently working as a Senior Technical Architect in Silicon Valley of India, Bengaluru</em></p>
-<p><em> - 🌱 I’m currently experimenting Cloud & DevOps Technologies </em></p>
+<p><em> - 🌱 I’m currently experimenting Java, Spring, Microservices, Cloud and DevOps Technologies </em></p>
 <p><em> - 🌱 I’m currently working as an Open Source Contributor to Spring Boot Migrator, Spring Rewrite Commons, and OpenRewrite Projects </em></p>
 
 ## 🔧 Technologies & Tools
