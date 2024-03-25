@@ -2,7 +2,7 @@
 
 <p><em> - 🔭 I’m currently working as a Technical Architect in Bengaluru, India</em></p>
 <p><em> - 🌱 I’m currently experimenting Cloud & DevOps Technologies </em></p>
-<p><em> - 🌱 I’m currently working as an Open Source Contributor to Spring Boot Migrator and Spring Rewrite Commons </em></p>
+<p><em> - 🌱 I’m currently working as an Open Source Contributor to Spring Boot Migrator, Spring Rewrite Commons, and OpenRewrite Projects </em></p>
 
 ## 🔧 Technologies & Tools
 
