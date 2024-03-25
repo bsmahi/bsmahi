@@ -18,4 +18,4 @@ Java, Spring Framework, Spring Boot, Microservices, Amazon WebServices(AWS), Apa
 * Spring Rewrite Commons
 * OpenRewrite
 
-<a href=”[in/mahendra-rao-bandaru-8754432b]()](https://www.linkedin.com/in/mahendra-rao-bandaru-8754432b/)"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href="https://www.linkedin.com/in/mahendra-rao-bandaru-8754432b/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
