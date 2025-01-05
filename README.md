@@ -6,7 +6,7 @@
 
 ## 🔧 Technologies & Tools
 
-Java, Spring Framework, Spring Boot, Microservices, Amazon WebServices(AWS), Apache Kafka, Container Technologies like Docker, Kubernetes(K8s).
+Java, Spring Framework, Spring Boot, Microservices, Kotlin, Amazon WebServices(AWS), Apache Kafka, Container Technologies like Docker, Kubernetes(K8s).
 
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
