@@ -4,8 +4,9 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working as a **Senior Technical Architect** in the *Silicon Valley of India – Bengaluru*.
+- 🔭 I’m currently working as a **Senior Technical Architect** & **Agentic AI Architect** in the *Silicon Valley of India – Bengaluru*.
 - 🌱 Passionate about exploring **Java**, **Spring Ecosystem**, **Microservices**, **Cloud**, and **DevOps** technologies.
+- 🤖 Exploring and Developing **Agentic AI Applications** using **Strands Agents, Spring AI, and Koog using Amazon Bedrock AgentCore**
 - 🤝 Actively contributing to open source communities including:
   - [Arconia](https://github.com/arconia-io/arconia)
   - Spring Boot Migrator
