@@ -22,7 +22,7 @@ name       : Mahendra Rao Bandaru
 role       : Senior Technical Architect & Agentic AI Architect
 location   : Bengaluru, India 🇮🇳
 focus      : Distributed Systems · Cloud-Native · Agentic AI
-currently  : Building AI Agents with Strands, Spring AI & Amazon Bedrock AgentCore
+currently  : Building AI Agents with Strands Agents, LangGraphs, Spring AI & Amazon Bedrock AgentCore
 writing    : Foojay (OpenJDK Community) · JavaPro Magazine
 open_to    : Collaborations, OSS contributions, Tech talks
 ```
