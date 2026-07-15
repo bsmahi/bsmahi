@@ -100,7 +100,7 @@ I write about Java, Spring, cloud-native architecture, and AI for the global dev
 | Newsletter | Publisher | Edition |
 |------------|-----------|---------|
 | ☕ **Java Annotated Monthly** | JetBrains | [Sep 2025](https://blog.jetbrains.com/idea/2025/09/java-annotated-monthly-september-2025/) · [Aug 2025](https://blog.jetbrains.com/idea/2025/08/java-annotated-monthly-august-2025/) · [Mar 2025](https://blog.jetbrains.com/idea/2025/03/java-annotated-monthly-march-2025/#java-tutorials-and-tips) |
-| 🌿 **Java Weekly #625** | Baeldung | [Featured Article](https://www.baeldung.com/java-weekly-625) |
+| 🌿 **Java Weekly #625** | Baeldung | [Featured Article](https://www.baeldung.com/java-weekly-625) (https://www.baeldung.com/java-weekly-654)|
 
 ---
 
